@@ -1,29 +1,29 @@
 # ncc-java-spring-basic
+[1. Spring Bean, Spring Component](spring-component-spring-bean/README.md)
 
-Spring Bean, Spring Component
+[2. Spring property, Spring config](spring-property-config)
 
-Spring property, Spring config, Annotation ConditionalOnProperty
+[3. IOC Containers, DI](ioc-di)
 
-IOC Containers, DI
+[4. Bean Scopes, Bean Life cycle](bean-scope-bean-lifecycle)
 
-Bean Scopes, Bean Life cycle
+[5. Entity, ORM, Relationship, Fetch Type (Lazy vs Eager)](entity-orm-relationship)
 
-Entity, ORM, Relationship, Fetch Type (Lazy vs Eager)
+[6. Controller, HTTP Methods (POST, GET, PUT, DELETE)](controller-httpmethod)
 
-Controller, HTTP Methods (POST, GET, PUT, DELETE)
+[7. Authentication vs Authorization](authentication-authorization)
 
-Authentication vs Authorization
+[8. Spring Security, User service](spring-security)
 
-Spring Security, User service
+[9. Service, Scheduler/Cronjob, Transactional](service-scheduler-cronjob-transactional)
 
-Service, Scheduler/Cronjob, Transactional
+[10. Email service, Thymeleaf, multilanguage](emailservice-thymeleaf-multilanguage)
 
-Email service, Thymeleaf, multilanguage
+[11. Repository, Spring JPA, Native query, HQL](repository-springjpa-nativequery-hql)
 
-Repository, Spring JPA, Native query, HQL
+[12. DTO](dto)
 
-Customize Result: Entity, DTO, Projection
+[13. JMS](jms)
 
-JMS
+[14. Mock, Unit test, Integration test](mock-unittest-integrationtest)
 
-Mock, Unit test, Integration test
